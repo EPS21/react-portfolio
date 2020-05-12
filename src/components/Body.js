@@ -27,7 +27,7 @@ export class Body extends Component {
           <Carousel.Item>
             <img
               className="w-100"
-              src="/img/1.jfif"
+              src="img/1.jfif"
               alt="First slide"
               style={this.transparentStyle()}
             />
@@ -53,7 +53,7 @@ export class Body extends Component {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="/img/3.jfif"
+              src="img/3.jfif"
               alt="Third slide"
               style={this.transparentStyle()}
             />
